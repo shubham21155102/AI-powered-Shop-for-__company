@@ -1,0 +1,5 @@
+.env
+/thunder-tests
+/frontend/node_modules
+database.db
+dataread.py
