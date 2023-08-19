@@ -31,7 +31,7 @@ def log_In_Details():
 def email_sender(receiver,message,subject):
     sender_email = "resoshubham2002@gmail.com"
     receiver_email = receiver
-    password = "vwwpdhyibyjzzkbg"
+    password = ""
     subject = subject
     message = message
     with smtplib.SMTP("smtp.gmail.com") as connection:
